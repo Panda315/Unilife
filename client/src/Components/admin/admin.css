@@ -1,0 +1,40 @@
+.admin_contanier{
+    margin-bottom: 30px;
+}
+
+.placeholder_admin{
+    height: 35px;
+}
+.search_admin_btn{
+    margin-left: 15px;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    background-color: rgba(102, 243, 231, 0.705);
+}
+
+.search_admin_btn:hover{
+    background-color: #FF9F1C;
+}
+
+._labels{
+    font-weight: 800;
+}
+
+
+
+.delete_section{
+    margin-left: 25vw;
+}
+
+
+.content{
+    margin-left: 50vw;
+    
+}
+
+.admin_input{
+    height: 35px;
+    border-radius: 0px;
+
+}
