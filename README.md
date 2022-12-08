@@ -13,7 +13,7 @@ Unilife is an all-in-one e-commerce website for university students and business
 
 # TEAM
 
-Baghchal project is a collaborative effort of 5 highly motivated developers. The team constitutes of 5 batch mates who are commited to digitize the game from Nepali origin. Followings are the team members of team Baghchal : 
+Unilife project is a collaborative effort of 5 highly motivated developers. The team constitutes of 5 batch mates who are commited to digitize the game from Nepali origin. Followings are the team members of team Baghchal : 
 <br>
 <a href = "https://github.com/Prajwal-Adhikari">Prajwal Adhikari</a><br>
 <a href = "https://github.com/ankeet779">Ankit Rimal</a><br>
